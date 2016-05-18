@@ -1,0 +1,1 @@
+Simple program for formatting csv files into SQL inserts
